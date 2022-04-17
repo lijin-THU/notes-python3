@@ -1,3 +1,19 @@
+
+# 中文 Python 笔记
+
+默认安装了 Python 3，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。推荐使用 Anaconda，这个IDE集成了大部分常用的包。
+
+> life is short. use python.
+
+
+笔记内容使用 Jupyter Notebook 来展示。安装好 Python 和相应的包之后，可以在命令行下输入：
+
+```shell
+jupyter notebook
+```
+
+也可以在[NBViewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python3/blob/master/index.ipynb)中查看相关内容。
+
 目录：
 - [ch01-Python介绍](ch01-Python介绍)
 	- [01-01Python简介](ch01-Python%E4%BB%8B%E7%BB%8D/01-01Python%E7%AE%80%E4%BB%8B.ipynb)
