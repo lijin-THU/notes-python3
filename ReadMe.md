@@ -34,3 +34,7 @@ jupyter notebook
 	- [02-11判断](ch02-Python%E5%9F%BA%E7%A1%80/02-11%E5%88%A4%E6%96%AD.ipynb)
 	- [02-12循环](ch02-Python%E5%9F%BA%E7%A1%80/02-12%E5%BE%AA%E7%8E%AF.ipynb)
 	- [02-13函数](ch02-Python%E5%9F%BA%E7%A1%80/02-13%E5%87%BD%E6%95%B0.ipynb)
+	- [02-14模块与包](ch02-Python%E5%9F%BA%E7%A1%80/02-14%E6%A8%A1%E5%9D%97%E4%B8%8E%E5%8C%85.ipynb)
+	- [02-15文件读写](ch02-Python%E5%9F%BA%E7%A1%80/02-15%E6%96%87%E4%BB%B6%E8%AF%BB%E5%86%99.ipynb)
+	- [02-16异常与警告](ch02-Python%E5%9F%BA%E7%A1%80/02-16%E5%BC%82%E5%B8%B8%E4%B8%8E%E8%AD%A6%E5%91%8A.ipynb)
+	- [02-17常用内置函数](ch02-Python%E5%9F%BA%E7%A1%80/02-17%E5%B8%B8%E7%94%A8%E5%86%85%E7%BD%AE%E5%87%BD%E6%95%B0.ipynb)
