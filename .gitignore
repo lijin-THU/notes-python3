@@ -12,6 +12,8 @@ __pycache__
 .pytest_cache
 src
 
+*_files/
+
 *.swp
 *.map
 .idea/

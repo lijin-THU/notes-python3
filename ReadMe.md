@@ -1,7 +1,7 @@
 
 # 中文 Python 笔记
 
-默认安装了 Python 3，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。推荐使用 Anaconda，这个IDE集成了大部分常用的包。
+默认安装了 Python 3，以及相关的第三方包 `notebook`，`ipython`， `numpy`， `scipy`，`pandas`。推荐使用 Anaconda，这个IDE集成了大部分常用的包。
 
 > life is short. use python.
 
@@ -12,7 +12,7 @@
 jupyter notebook
 ```
 
-也可以在[NBViewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python3/blob/master/index.ipynb)中查看相关内容。
+也可以在[NBViewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python3/blob/master/ReadMe.ipynb)中查看相关内容。
 
 目录：
 - [ch01-Python介绍](ch01-Python介绍)
