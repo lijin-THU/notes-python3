@@ -15,6 +15,8 @@ jupyter notebook
 也可以在[NBViewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python3/blob/master/ReadMe.ipynb)中查看相关内容。
 
 目录：
+- [ch00-Python2与3的核心区别](ch00-Python2与3的核心区别)
+	- [00-01Python2和3的核心区别](ch00-Python2%E4%B8%8E3%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB/00-01Python2%E5%92%8C3%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8C%BA%E5%88%AB.ipynb)
 - [ch01-Python介绍](ch01-Python介绍)
 	- [01-01Python简介](ch01-Python%E4%BB%8B%E7%BB%8D/01-01Python%E7%AE%80%E4%BB%8B.ipynb)
 	- [01-02IPython解释器](ch01-Python%E4%BB%8B%E7%BB%8D/01-02IPython%E8%A7%A3%E9%87%8A%E5%99%A8.ipynb)
@@ -24,7 +26,7 @@ jupyter notebook
 	- [02-01Python演示](ch02-Python%E5%9F%BA%E7%A1%80/02-01Python%E6%BC%94%E7%A4%BA.ipynb)
 	- [02-02数字](ch02-Python%E5%9F%BA%E7%A1%80/02-02%E6%95%B0%E5%AD%97.ipynb)
 	- [02-03字符串](ch02-Python%E5%9F%BA%E7%A1%80/02-03%E5%AD%97%E7%AC%A6%E4%B8%B2.ipynb)
-	- [02-04索引和分片](ch02-Python%E5%9F%BA%E7%A1%80/02-04%E7%B4%A2%E5%BC%95%E5%92%8C%E5%88%86%E7%89%87.ipynb)
+	- [02-04索引和切片](ch02-Python%E5%9F%BA%E7%A1%80/02-04%E7%B4%A2%E5%BC%95%E5%92%8C%E5%88%87%E7%89%87.ipynb)
 	- [02-05列表](ch02-Python%E5%9F%BA%E7%A1%80/02-05%E5%88%97%E8%A1%A8.ipynb)
 	- [02-06可变与不可变类型](ch02-Python%E5%9F%BA%E7%A1%80/02-06%E5%8F%AF%E5%8F%98%E4%B8%8E%E4%B8%8D%E5%8F%AF%E5%8F%98%E7%B1%BB%E5%9E%8B.ipynb)
 	- [02-07元组](ch02-Python%E5%9F%BA%E7%A1%80/02-07%E5%85%83%E7%BB%84.ipynb)
@@ -62,3 +64,10 @@ jupyter notebook
 	- [05-09模块pathlib：路径操作](ch05-Python%E6%A0%87%E5%87%86%E5%BA%93/05-09%E6%A8%A1%E5%9D%97pathlib%EF%BC%9A%E8%B7%AF%E5%BE%84%E6%93%8D%E4%BD%9C.ipynb)
 - [ch06-NumPy模块](ch06-NumPy模块)
 	- [06-01数组基础](ch06-NumPy%E6%A8%A1%E5%9D%97/06-01%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80.ipynb)
+	- [06-02数组操作](ch06-NumPy%E6%A8%A1%E5%9D%97/06-02%E6%95%B0%E7%BB%84%E6%93%8D%E4%BD%9C.ipynb)
+	- [06-03数组广播机制](ch06-NumPy%E6%A8%A1%E5%9D%97/06-03%E6%95%B0%E7%BB%84%E5%B9%BF%E6%92%AD%E6%9C%BA%E5%88%B6.ipynb)
+	- [06-04数组索引进阶](ch06-NumPy%E6%A8%A1%E5%9D%97/06-04%E6%95%B0%E7%BB%84%E7%B4%A2%E5%BC%95%E8%BF%9B%E9%98%B6.ipynb)
+	- [06-05数组的读写](ch06-NumPy%E6%A8%A1%E5%9D%97/06-05%E6%95%B0%E7%BB%84%E7%9A%84%E8%AF%BB%E5%86%99.ipynb)
+	- [06-06随机数组](ch06-NumPy%E6%A8%A1%E5%9D%97/06-06%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%BB%84.ipynb)
+- [ch07-Matplotlib模块](ch07-Matplotlib模块)
+	- [07-01基于函数的可视化操作](ch07-Matplotlib%E6%A8%A1%E5%9D%97/07-01%E5%9F%BA%E4%BA%8E%E5%87%BD%E6%95%B0%E7%9A%84%E5%8F%AF%E8%A7%86%E5%8C%96%E6%93%8D%E4%BD%9C.ipynb)
