@@ -78,3 +78,5 @@ jupyter notebook
 - [ch08-SciPy模块](ch08-SciPy模块)
 	- [08-01SciPy模块简介](ch08-SciPy%E6%A8%A1%E5%9D%97/08-01SciPy%E6%A8%A1%E5%9D%97%E7%AE%80%E4%BB%8B.ipynb)
 	- [08-02插值模块](ch08-SciPy%E6%A8%A1%E5%9D%97/08-02%E6%8F%92%E5%80%BC%E6%A8%A1%E5%9D%97.ipynb)
+	- [08-03概率统计模块](ch08-SciPy%E6%A8%A1%E5%9D%97/08-03%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1%E6%A8%A1%E5%9D%97.ipynb)
+	- [08-04优化模块](ch08-SciPy%E6%A8%A1%E5%9D%97/08-04%E4%BC%98%E5%8C%96%E6%A8%A1%E5%9D%97.ipynb)
