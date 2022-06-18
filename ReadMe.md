@@ -88,3 +88,5 @@ jupyter notebook
 	- [09-04Pandas对象的索引](ch09-Pandas%E6%A8%A1%E5%9D%97/09-04Pandas%E5%AF%B9%E8%B1%A1%E7%9A%84%E7%B4%A2%E5%BC%95.ipynb)
 	- [09-05缺失值的处理](ch09-Pandas%E6%A8%A1%E5%9D%97/09-05%E7%BC%BA%E5%A4%B1%E5%80%BC%E7%9A%84%E5%A4%84%E7%90%86.ipynb)
 	- [09-06数据的读写](ch09-Pandas%E6%A8%A1%E5%9D%97/09-06%E6%95%B0%E6%8D%AE%E7%9A%84%E8%AF%BB%E5%86%99.ipynb)
+- [ch10-一些好玩的应用](ch10-一些好玩的应用)
+	- [10-01获取必应桌面壁纸](ch10-%E4%B8%80%E4%BA%9B%E5%A5%BD%E7%8E%A9%E7%9A%84%E5%BA%94%E7%94%A8/10-01%E8%8E%B7%E5%8F%96%E5%BF%85%E5%BA%94%E6%A1%8C%E9%9D%A2%E5%A3%81%E7%BA%B8.ipynb)
